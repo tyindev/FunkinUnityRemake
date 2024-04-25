@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 919431d596eec9c43acad2f7bc43c4fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4705396125391371356
+    second: EASY0000
+  - first:
+      213: 4569902675475786689
+    second: HARD0000
+  - first:
+      213: 7110154203539440189
+    second: NORMAL0000
+  - first:
+      213: -15597204783360754
+    second: WEEK1 select0000
+  - first:
+      213: 2991998392350974571
+    second: WEEK1 select0001
+  - first:
+      213: -3442872094990557451
+    second: Week 3 press0000
+  - first:
+      213: -6724226996357510151
+    second: Week 3 press0001
+  - first:
+      213: -4429793636215950902
+    second: Week 4 press0000
+  - first:
+      213: 5096741947785069740
+    second: Week 4 press0001
+  - first:
+      213: 3888828741853554351
+    second: Week 60000
+  - first:
+      213: 378689038374119527
+    second: Week 60001
+  - first:
+      213: 2070511078011616892
+    second: arrow left0000
+  - first:
+      213: 2653419601509648561
+    second: arrow push left0000
+  - first:
+      213: 1498659649881670465
+    second: arrow push right0000
+  - first:
+      213: 3821581411389712954
+    second: arrow right0000
+  - first:
+      213: 6138793976523771088
+    second: lock0000
+  - first:
+      213: 8221578766600046057
+    second: tutorial selected0000
+  - first:
+      213: 5561461621057117779
+    second: tutorial selected0001
+  - first:
+      213: 4171071254484700716
+    second: week 50000
+  - first:
+      213: 7636841089365974400
+    second: week 50001
+  - first:
+      213: -2758692572168163076
+    second: week2 select0000
+  - first:
+      213: 2136257546393094684
+    second: week2 select0001
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EASY0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 196
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a34c8a772313beb0800000000000000
+      internalID: -4705396125391371356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HARD0000
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 957
+        width: 211
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb67dd554e8b6f30800000000000000
+      internalID: 4569902675475786689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NORMAL0000
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 957
+        width: 308
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d320830b3975ca260800000000000000
+      internalID: 7110154203539440189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEEK1 select0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 360
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051665cc6698cff0800000000000000
+      internalID: -15597204783360754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEEK1 select0001
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 858
+        width: 360
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62ae908fa6b58920800000000000000
+      internalID: 2991998392350974571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week 3 press0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 358
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe9bfa12167830d0800000000000000
+      internalID: -3442872094990557451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week 3 press0001
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 759
+        width: 358
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc40d5c2fbea2a0800000000000000
+      internalID: -6724226996357510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week 4 press0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 355
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ff0d68263682c0800000000000000
+      internalID: -4429793636215950902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week 4 press0001
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 660
+        width: 355
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4cf8d3cc34bb640800000000000000
+      internalID: 5096741947785069740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week 60000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 359
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6a2860325e7f530800000000000000
+      internalID: 3888828741853554351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week 60001
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 558
+        width: 359
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768af9c8caf514500800000000000000
+      internalID: 378689038374119527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow left0000
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 565
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb46cfadeebbc10800000000000000
+      internalID: 2070511078011616892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow push left0000
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 575
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88a04b117d2d420800000000000000
+      internalID: 2653419601509648561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow push right0000
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 576
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1438866e20f4cc410800000000000000
+      internalID: 1498659649881670465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow right0000
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 565
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aae1acb0cf80530800000000000000
+      internalID: 3821581411389712954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock0000
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 557
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcc100d890613550800000000000000
+      internalID: 6138793976523771088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial selected0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 443
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50714145ae81270800000000000000
+      internalID: 8221578766600046057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial selected0001
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 465
+        width: 443
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed313e0e74e2d40800000000000000
+      internalID: 5561461621057117779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: week 50000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 364
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e4768e43f92e930800000000000000
+      internalID: 4171071254484700716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: week 50001
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 364
+        width: 364
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d14c152828bf960800000000000000
+      internalID: 7636841089365974400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: week2 select0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 361
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf07867c8b727b9d0800000000000000
+      internalID: -2758692572168163076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: week2 select0001
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 267
+        width: 361
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a02898be285ad10800000000000000
+      internalID: 2136257546393094684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

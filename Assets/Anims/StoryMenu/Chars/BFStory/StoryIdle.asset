@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e6f6b396aaad8409ac6804e2834b12, type: 3}
+  m_Name: StoryIdle
+  m_EditorClassIdentifier: 
+  animationName: StoryIdle
+  fps: 24
+  frames:
+  - sprite: {fileID: 8271135371326024857, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 8388916698375139894, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: -7208652123209220004, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 8481945650741917418, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 8059240424499669808, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: -44456781292481727, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: -5044026588458493909, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 1631090910804694572, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 5640674478833123812, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: -3843114312746809418, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 7079446527125822351, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 5138443650928212462, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: -1573641495309854289, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  - sprite: {fileID: 7767130333485880547, guid: 6848f870b0b6fc84a8c6886c5e70b6f1, type: 3}
+  spriteAnimationType: 0

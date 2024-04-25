@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c1f8a0f811553564b848a060d0a5e1b5
+timeCreated: 1712923626
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Friday Night Funkin
+  fontNames:
+  - Friday Night Funkin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 267a6eec7baf75c40a11de4628d1e1f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5424431136538531848
+    second: ENTER PRESSED0000
+  - first:
+      213: 8428159068659037168
+    second: ENTER PRESSED0001
+  - first:
+      213: 5916893863982364171
+    second: ENTER PRESSED0002
+  - first:
+      213: 9216626177160370883
+    second: ENTER PRESSED0003
+  - first:
+      213: 9089565590525714700
+    second: ENTER PRESSED0004
+  - first:
+      213: -5085161154283566828
+    second: ENTER PRESSED0005
+  - first:
+      213: 4901323264625851868
+    second: ENTER PRESSED0006
+  - first:
+      213: 5018494651881929819
+    second: ENTER PRESSED0007
+  - first:
+      213: -4425048216054414493
+    second: ENTER PRESSED0008
+  - first:
+      213: -1507646373580640333
+    second: Press Enter to Begin0000
+  - first:
+      213: -8582924114132287856
+    second: Press Enter to Begin0001
+  - first:
+      213: -5481066325833864647
+    second: Press Enter to Begin0002
+  - first:
+      213: 176189737641494609
+    second: Press Enter to Begin0003
+  - first:
+      213: -5510020336921830728
+    second: Press Enter to Begin0004
+  - first:
+      213: -7950052974323222884
+    second: Press Enter to Begin0005
+  - first:
+      213: -503365599779483381
+    second: Press Enter to Begin0006
+  - first:
+      213: -7974025166772747250
+    second: Press Enter to Begin0007
+  - first:
+      213: -9044550288408655156
+    second: Press Enter to Begin0008
+  - first:
+      213: 7412555681369994051
+    second: Press Enter to Begin0009
+  - first:
+      213: -6447801374717051805
+    second: Press Enter to Begin0010
+  - first:
+      213: -1691289258604052593
+    second: Press Enter to Begin0011
+  - first:
+      213: -7523662533247140517
+    second: Press Enter to Begin0012
+  - first:
+      213: -3758873196879804878
+    second: Press Enter to Begin0013
+  - first:
+      213: 3932906622015361456
+    second: Press Enter to Begin0014
+  - first:
+      213: -2370300100918468939
+    second: Press Enter to Begin0015
+  - first:
+      213: -700911638092473116
+    second: Press Enter to Begin0016
+  - first:
+      213: -3243841628965906588
+    second: Press Enter to Begin0017
+  - first:
+      213: 6177658864648747069
+    second: Press Enter to Begin0018
+  - first:
+      213: -3939068384887213442
+    second: Press Enter to Begin0019
+  - first:
+      213: 6783154425662182767
+    second: Press Enter to Begin0020
+  - first:
+      213: 8958638393519009255
+    second: Press Enter to Begin0021
+  - first:
+      213: -8821320459825343644
+    second: Press Enter to Begin0022
+  - first:
+      213: -2264156475858600642
+    second: Press Enter to Begin0023
+  - first:
+      213: 2652550937426922252
+    second: Press Enter to Begin0024
+  - first:
+      213: -2888378250270940933
+    second: Press Enter to Begin0025
+  - first:
+      213: 7583712261268852222
+    second: Press Enter to Begin0026
+  - first:
+      213: -5763696139738587189
+    second: Press Enter to Begin0027
+  - first:
+      213: 2660111292347180693
+    second: Press Enter to Begin0028
+  - first:
+      213: 4101820654275800839
+    second: Press Enter to Begin0029
+  - first:
+      213: 8536607387470242764
+    second: Press Enter to Begin0030
+  - first:
+      213: 3196395230042083886
+    second: Press Enter to Begin0031
+  - first:
+      213: 2720752432136628794
+    second: Press Enter to Begin0032
+  - first:
+      213: -1249197049734957753
+    second: Press Enter to Begin0033
+  - first:
+      213: -7702387476777874000
+    second: Press Enter to Begin0034
+  - first:
+      213: -2988317790790073259
+    second: Press Enter to Begin0035
+  - first:
+      213: -8776647593890271962
+    second: Press Enter to Begin0036
+  - first:
+      213: -3329253430537703313
+    second: Press Enter to Begin0037
+  - first:
+      213: 6828903787750888541
+    second: Press Enter to Begin0038
+  - first:
+      213: -3862499229212268582
+    second: Press Enter to Begin0039
+  - first:
+      213: -9199524777361201073
+    second: Press Enter to Begin0040
+  - first:
+      213: -9074684050105437723
+    second: Press Enter to Begin0041
+  - first:
+      213: 7527582482460743012
+    second: Press Enter to Begin0042
+  - first:
+      213: -6633433496001107263
+    second: Press Enter to Begin0043
+  - first:
+      213: -1057702854946609632
+    second: Press Enter to Begin0044
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ENTER PRESSED0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76d060f9c88b4b0800000000000000
+      internalID: -5424431136538531848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0001
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3b8e5c406d6f470800000000000000
+      internalID: 8428159068659037168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067b58ce970d1250800000000000000
+      internalID: 5916893863982364171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0003
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cad5352da808ef70800000000000000
+      internalID: 9216626177160370883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0126e9febf942e70800000000000000
+      internalID: 9089565590525714700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0005
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419005d5fd0ed69b0800000000000000
+      internalID: -5085161154283566828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0006
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb1657a8ff40440800000000000000
+      internalID: 4901323264625851868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cbe98fb4645a540800000000000000
+      internalID: 5018494651881929819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENTER PRESSED0008
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4017
+        width: 1477
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c918a7121792c0800000000000000
+      internalID: -4425048216054414493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3911
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe1df6c93c31be0800000000000000
+      internalID: -1507646373580640333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0001
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3911
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb2031ef353e880800000000000000
+      internalID: -8582924114132287856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3805
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a215277375fe3b0800000000000000
+      internalID: -5481066325833864647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0003
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3805
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158c03502a3f17200800000000000000
+      internalID: 176189737641494609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3699
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba989862b97883b0800000000000000
+      internalID: -5510020336921830728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0005
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3699
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c963de7e0fcbba190800000000000000
+      internalID: -7950052974323222884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3593
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011ef867afa309f0800000000000000
+      internalID: -503365599779483381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0007
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3593
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e044c78eb52965190800000000000000
+      internalID: -7974025166772747250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3487
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccace3ace6d4b7280800000000000000
+      internalID: -9044550288408655156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0009
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3487
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343bcd96e10bed660800000000000000
+      internalID: 7412555681369994051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3381
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cf6b5cfcec486a0800000000000000
+      internalID: -6447801374717051805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0011
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3381
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb87051655788e0800000000000000
+      internalID: -1691289258604052593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3275
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d73efb9c4969790800000000000000
+      internalID: -7523662533247140517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0013
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3275
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2360e382ebcc5dbc0800000000000000
+      internalID: -3758873196879804878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3169
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d10c3cbd749630800000000000000
+      internalID: 3932906622015361456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0015
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3169
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be9ea9dd900b1fd0800000000000000
+      internalID: -2370300100918468939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3063
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9f88249cd546f0800000000000000
+      internalID: -700911638092473116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0017
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3063
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467dcdd993f8bf2d0800000000000000
+      internalID: -3243841628965906588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2957
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d387eeab1047bb550800000000000000
+      internalID: 6177658864648747069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0019
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2957
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7273dc8c2e9559c0800000000000000
+      internalID: -3939068384887213442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2851
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65963ee20b922e50800000000000000
+      internalID: 6783154425662182767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0021
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2851
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed60ec672a735c70800000000000000
+      internalID: 8958638393519009255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2745
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463993677cf549580800000000000000
+      internalID: -8821320459825343644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0023
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2745
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d3c846ea91490e0800000000000000
+      internalID: -2264156475858600642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0024
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2745
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b06f51601cfc420800000000000000
+      internalID: 2652550937426922252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2851
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0e2afd84b6ae7d0800000000000000
+      internalID: -2888378250270940933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2639
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd44b31f12ce3960800000000000000
+      internalID: 7583712261268852222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0027
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2639
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf5795f5ec3300b0800000000000000
+      internalID: -5763696139738587189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2533
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596eb53602d9ae420800000000000000
+      internalID: 2660111292347180693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0029
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2533
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f287617289ce830800000000000000
+      internalID: 4101820654275800839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2427
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a325a03f187670800000000000000
+      internalID: 8536607387470242764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0031
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2427
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e225968c680eb5c20800000000000000
+      internalID: 3196395230042083886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa84ffbed02c520800000000000000
+      internalID: 2720752432136628794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0033
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2321
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745f41cd6e5f9aee0800000000000000
+      internalID: -1249197049734957753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0034
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2215
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdcc3c166f9b1590800000000000000
+      internalID: -7702387476777874000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0035
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2215
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544af35dcc5786d0800000000000000
+      internalID: -2988317790790073259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0036
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2109
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d22679385133680800000000000000
+      internalID: -8776647593890271962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0037
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2109
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60bc81e4ad1cc1d0800000000000000
+      internalID: -3329253430537703313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0038
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2003
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54163a50d325ce50800000000000000
+      internalID: 6828903787750888541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0039
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2003
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad725995a65a56ac0800000000000000
+      internalID: -3862499229212268582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0040
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482bf6c4f8b45080800000000000000
+      internalID: -9199524777361201073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0041
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1897
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1ff88afee301280800000000000000
+      internalID: -9074684050105437723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0042
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465968c8268577860800000000000000
+      internalID: 7527582482460743012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0043
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1791
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca2dad716f41f3a0800000000000000
+      internalID: -6633433496001107263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press Enter to Begin0044
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3911
+        width: 1495
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026adfc7bd84251f0800000000000000
+      internalID: -1057702854946609632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

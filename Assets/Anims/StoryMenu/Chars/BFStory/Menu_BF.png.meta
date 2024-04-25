@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: 6848f870b0b6fc84a8c6886c5e70b6f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8271135371326024857
+    second: M BF Idle0000
+  - first:
+      213: 8388916698375139894
+    second: M BF Idle0001
+  - first:
+      213: -7208652123209220004
+    second: M BF Idle0002
+  - first:
+      213: 8481945650741917418
+    second: M BF Idle0003
+  - first:
+      213: 8059240424499669808
+    second: M BF Idle0004
+  - first:
+      213: -44456781292481727
+    second: M BF Idle0005
+  - first:
+      213: -5044026588458493909
+    second: M BF Idle0006
+  - first:
+      213: 1631090910804694572
+    second: M BF Idle0007
+  - first:
+      213: 5640674478833123812
+    second: M BF Idle0008
+  - first:
+      213: -3843114312746809418
+    second: M BF Idle0009
+  - first:
+      213: 7079446527125822351
+    second: M BF Idle0010
+  - first:
+      213: 5138443650928212462
+    second: M BF Idle0011
+  - first:
+      213: -1573641495309854289
+    second: M BF Idle0012
+  - first:
+      213: 7767130333485880547
+    second: M BF Idle0013
+  - first:
+      213: -2856334274123391713
+    second: M bf HEY0000
+  - first:
+      213: 8903840673065894340
+    second: M bf HEY0001
+  - first:
+      213: 3765047726351143150
+    second: M bf HEY0002
+  - first:
+      213: 2247675194912624433
+    second: M bf HEY0003
+  - first:
+      213: 199509245643723434
+    second: M bf HEY0004
+  - first:
+      213: -8463426102318748012
+    second: M bf HEY0005
+  - first:
+      213: -2625545206251882638
+    second: M bf HEY0006
+  - first:
+      213: 2285259985481521771
+    second: M bf HEY0007
+  - first:
+      213: -7641255357689977306
+    second: M bf HEY0008
+  - first:
+      213: 3664044803404287969
+    second: M bf HEY0009
+  - first:
+      213: -1383754913401700036
+    second: M bf HEY0010
+  - first:
+      213: 5343392088487830520
+    second: M bf HEY0011
+  - first:
+      213: 7519525642814355477
+    second: M bf HEY0012
+  - first:
+      213: -6359752991330840491
+    second: M bf HEY0013
+  - first:
+      213: -1907906600735254929
+    second: M bf HEY0014
+  - first:
+      213: -3326942119153029528
+    second: M bf HEY0015
+  - first:
+      213: -4322323147874579119
+    second: M bf HEY0016
+  - first:
+      213: -3917375554077604275
+    second: M bf HEY0017
+  - first:
+      213: 4592370335282727717
+    second: M bf HEY0018
+  - first:
+      213: 6198521825501294799
+    second: M bf HEY0019
+  - first:
+      213: -6453886333009237140
+    second: M bf HEY0020
+  - first:
+      213: -5455876638121719075
+    second: M bf HEY0021
+  - first:
+      213: -4957180373592344129
+    second: M bf HEY0022
+  - first:
+      213: 477707846121589601
+    second: M bf HEY0023
+  - first:
+      213: -7204921394970348142
+    second: M bf HEY0024
+  - first:
+      213: 473215226392940948
+    second: M bf HEY0025
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M BF Idle0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 686
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c6e014cc9f8c270800000000000000
+      internalID: 8271135371326024857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 686
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6323ef07a4b6b6470800000000000000
+      internalID: 8388916698375139894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0002
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 682
+        width: 324
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50cfb64619b5fb90800000000000000
+      internalID: -7208652123209220004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0003
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 682
+        width: 324
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae634ac41ace5b570800000000000000
+      internalID: 8481945650741917418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0004
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 672
+        width: 328
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b65c5677c28df60800000000000000
+      internalID: 8059240424499669808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0005
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 672
+        width: 328
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143543fface026ff0800000000000000
+      internalID: -44456781292481727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 327
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b285e4dca84000ab0800000000000000
+      internalID: -5044026588458493909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0007
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 327
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26d1ee9a8cc2a610800000000000000
+      internalID: 1631090910804694572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 327
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c57c8d83b74e40800000000000000
+      internalID: 5640674478833123812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0009
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 327
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c18de4e38aaac0800000000000000
+      internalID: -3843114312746809418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0010
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 327
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b15bf9b1f3f3260800000000000000
+      internalID: 7079446527125822351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0011
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 327
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9ffef964b6f4740800000000000000
+      internalID: 5138443650928212462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0012
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 358
+        width: 325
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9dd34c56d492ae0800000000000000
+      internalID: -1573641495309854289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M BF Idle0013
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 358
+        width: 325
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45693e2e36acb60800000000000000
+      internalID: 7767130333485880547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0000
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 338
+        width: 316
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d1a177c134c58d0800000000000000
+      internalID: -2856334274123391713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0001
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 338
+        width: 316
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c184c6eaebc09b70800000000000000
+      internalID: 8903840673065894340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 331
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee05d8385f2204430800000000000000
+      internalID: 3765047726351143150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 331
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f493b5ea8513f10800000000000000
+      internalID: 2247675194912624433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0004
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa210041a9cc4c200800000000000000
+      internalID: 199509245643723434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0005
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea5841dcedb8a80800000000000000
+      internalID: -8463426102318748012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0006
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27770afab80309bd0800000000000000
+      internalID: -2625545206251882638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0007
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5a0659dfd6bf10800000000000000
+      internalID: 2285259985481521771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0008
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626a6debcbec4f590800000000000000
+      internalID: -7641255357689977306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0009
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef4704f55d49d230800000000000000
+      internalID: 3664044803404287969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0010
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c318d7adc3aebcce0800000000000000
+      internalID: -1383754913401700036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0011
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f323f14bca872a40800000000000000
+      internalID: 5343392088487830520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0012
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f3636bb8ba5860800000000000000
+      internalID: 7519525642814355477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0013
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505f7c895e9db7a0800000000000000
+      internalID: -6359752991330840491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0014
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665d8e1e01c585e0800000000000000
+      internalID: -1907906600735254929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0015
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e299ff4c354d1d0800000000000000
+      internalID: -3326942119153029528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0016
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dcc766ff50404c0800000000000000
+      internalID: -4322323147874579119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0017
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46c76f40bfa2a9c0800000000000000
+      internalID: -3917375554077604275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0018
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b819f0d706bbf30800000000000000
+      internalID: 4592370335282727717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0019
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b28552c2950650800000000000000
+      internalID: 6198521825501294799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0020
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6c3403903f66a0800000000000000
+      internalID: -6453886333009237140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0021
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0766aa15d844b0800000000000000
+      internalID: -5455876638121719075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0022
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97d78e6be843bb0800000000000000
+      internalID: -4957180373592344129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0023
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8e7a41c821a600800000000000000
+      internalID: 477707846121589601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0024
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953e222a2af20c90800000000000000
+      internalID: -7204921394970348142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M bf HEY0025
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 332
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491157fbdb2319600800000000000000
+      internalID: 473215226392940948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

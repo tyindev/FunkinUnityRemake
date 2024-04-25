@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e6f6b396aaad8409ac6804e2834b12, type: 3}
+  m_Name: MenuIdle
+  m_EditorClassIdentifier: 
+  animationName: MenuIdle
+  fps: 24
+  frames:
+  - sprite: {fileID: -4028102634215014812, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -494540318792140597, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -6420339698177883331, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 2133986974602068388, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 3716539874196579907, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -4262951521829802234, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 6989262307429677778, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -7217372609925253200, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -5265465094550765334, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -8280639204737962016, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 2338591285593656161, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 4187038074752775923, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -5837447012577191252, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 6476010935969388485, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -7991178840420213343, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 3222974006252445986, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 259757225697217646, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 6897319056709533416, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 3522917731745921355, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 9151138825881847968, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 8343396482224717490, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -2716233201471573770, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 1446003257216582477, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 1228915490746695025, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -3883173291493511847, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -945940291726262201, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -6508444022874144824, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 4219761189044440303, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: -1414900614040380366, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  - sprite: {fileID: 202648607837445732, guid: 4c9307d8e15ecec4ebc2ed8f36506681, type: 3}
+  spriteAnimationType: 0

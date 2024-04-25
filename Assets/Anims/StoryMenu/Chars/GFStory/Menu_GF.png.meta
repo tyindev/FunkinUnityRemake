@@ -1,0 +1,841 @@
+fileFormatVersion: 2
+guid: 4c9307d8e15ecec4ebc2ed8f36506681
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4028102634215014812
+    second: M GF Idle0000
+  - first:
+      213: -494540318792140597
+    second: M GF Idle0001
+  - first:
+      213: -6420339698177883331
+    second: M GF Idle0002
+  - first:
+      213: 2133986974602068388
+    second: M GF Idle0003
+  - first:
+      213: 3716539874196579907
+    second: M GF Idle0004
+  - first:
+      213: -4262951521829802234
+    second: M GF Idle0005
+  - first:
+      213: 6989262307429677778
+    second: M GF Idle0006
+  - first:
+      213: -7217372609925253200
+    second: M GF Idle0007
+  - first:
+      213: -5265465094550765334
+    second: M GF Idle0008
+  - first:
+      213: -8280639204737962016
+    second: M GF Idle0009
+  - first:
+      213: 2338591285593656161
+    second: M GF Idle0010
+  - first:
+      213: 4187038074752775923
+    second: M GF Idle0011
+  - first:
+      213: -5837447012577191252
+    second: M GF Idle0012
+  - first:
+      213: 6476010935969388485
+    second: M GF Idle0013
+  - first:
+      213: -7991178840420213343
+    second: M GF Idle0014
+  - first:
+      213: 3222974006252445986
+    second: M GF Idle0015
+  - first:
+      213: 259757225697217646
+    second: M GF Idle0016
+  - first:
+      213: 6897319056709533416
+    second: M GF Idle0017
+  - first:
+      213: 3522917731745921355
+    second: M GF Idle0018
+  - first:
+      213: 9151138825881847968
+    second: M GF Idle0019
+  - first:
+      213: 8343396482224717490
+    second: M GF Idle0020
+  - first:
+      213: -2716233201471573770
+    second: M GF Idle0021
+  - first:
+      213: 1446003257216582477
+    second: M GF Idle0022
+  - first:
+      213: 1228915490746695025
+    second: M GF Idle0023
+  - first:
+      213: -3883173291493511847
+    second: M GF Idle0024
+  - first:
+      213: -945940291726262201
+    second: M GF Idle0025
+  - first:
+      213: -6508444022874144824
+    second: M GF Idle0026
+  - first:
+      213: 4219761189044440303
+    second: M GF Idle0027
+  - first:
+      213: -1414900614040380366
+    second: M GF Idle0028
+  - first:
+      213: 202648607837445732
+    second: M GF Idle0029
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M GF Idle0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 968
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e7cc8fefd4918c0800000000000000
+      internalID: -4028102634215014812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0001
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 968
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc83943433a0329f0800000000000000
+      internalID: -494540318792140597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0002
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c4c89f0f56e6a0800000000000000
+      internalID: -6420339698177883331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0003
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18778d8d17d9d10800000000000000
+      internalID: 2133986974602068388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0004
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346ef03135dc39330800000000000000
+      internalID: 3716539874196579907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0005
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60faf9e4d24f6d4c0800000000000000
+      internalID: -4262951521829802234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0006
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7f54b909def060800000000000000
+      internalID: 6989262307429677778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0007
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b775cdb9ddb6db90800000000000000
+      internalID: -7217372609925253200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0008
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae04516e46f4de6b0800000000000000
+      internalID: -5265465094550765334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0009
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 966
+        width: 340
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efab681482451d80800000000000000
+      internalID: -8280639204737962016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0010
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 655
+        width: 338
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b42a44268547020800000000000000
+      internalID: 2338591285593656161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0011
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 655
+        width: 340
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6bca2f1f85b1a30800000000000000
+      internalID: 4187038074752775923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0012
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 656
+        width: 340
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caadb24ced83dfea0800000000000000
+      internalID: -5837447012577191252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0013
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 656
+        width: 340
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7100882a96fd950800000000000000
+      internalID: 6476010935969388485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0014
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 654
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad92280f21a91190800000000000000
+      internalID: -7991178840420213343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0015
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221aefa58cd4abc20800000000000000
+      internalID: 3222974006252445986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0016
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 342
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c068d02d7da9300800000000000000
+      internalID: 259757225697217646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0017
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee34b5732338bf50800000000000000
+      internalID: 6897319056709533416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0018
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49f3a5030be3e030800000000000000
+      internalID: 3522917731745921355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0019
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a809fef6406ffe70800000000000000
+      internalID: 9151138825881847968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0020
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be7f3735e2b9c370800000000000000
+      internalID: 8343396482224717490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0021
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03a236b400e4ad0800000000000000
+      internalID: -2716233201471573770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0022
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c37a1d4c311410800000000000000
+      internalID: 1446003257216582477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0023
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d7ee4b02cfd0110800000000000000
+      internalID: 1228915490746695025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0024
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 337
+        width: 340
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dae3f17723c1ac0800000000000000
+      internalID: -3883173291493511847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0025
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7404de401585fd2f0800000000000000
+      internalID: -945940291726262201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf7218f4ac5da5a0800000000000000
+      internalID: -6508444022874144824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0027
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 25
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec49f5b17a9f8a30800000000000000
+      internalID: 4219761189044440303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0028
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 25
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c14a353634d5ce0800000000000000
+      internalID: -1414900614040380366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M GF Idle0029
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 25
+        width: 340
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ed06cc5d3ffc200800000000000000
+      internalID: 202648607837445732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

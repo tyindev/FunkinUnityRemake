@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e6f6b396aaad8409ac6804e2834b12, type: 3}
+  m_Name: titleEnterSELECT
+  m_EditorClassIdentifier: 
+  animationName: titleEnterSELECT
+  fps: 24
+  frames:
+  - sprite: {fileID: -5424431136538531848, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: 8428159068659037168, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: 5916893863982364171, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: 9216626177160370883, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: 9089565590525714700, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: -5085161154283566828, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: 4901323264625851868, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: 5018494651881929819, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  - sprite: {fileID: -4425048216054414493, guid: 267a6eec7baf75c40a11de4628d1e1f2, type: 3}
+  spriteAnimationType: 0

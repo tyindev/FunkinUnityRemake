@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a36944685da1f8b4d80589319b7a8047
+timeCreated: 1713222280
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Arial 11
+  fontNames:
+  - Pixel Arial 11
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
