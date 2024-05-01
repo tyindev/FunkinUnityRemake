@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 818362c94bd8ad74b9e60c6a803ef69d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2026957576211448556
+    second: highscore small instance 10000
+  - first:
+      213: 5240667414720792426
+    second: highscore small instance 10001
+  - first:
+      213: -2162535177736137947
+    second: highscore small instance 10002
+  - first:
+      213: -7326430248021225387
+    second: highscore small instance 10003
+  - first:
+      213: 9017281269985553113
+    second: highscore small instance 10004
+  - first:
+      213: 1173338914447037461
+    second: highscore small instance 10005
+  - first:
+      213: 3119702781386776028
+    second: highscore small instance 10006
+  - first:
+      213: 3253623182681698274
+    second: highscore small instance 10007
+  - first:
+      213: -2833795123761508404
+    second: highscore small instance 10008
+  - first:
+      213: -1689728041433087019
+    second: highscore small instance 10009
+  - first:
+      213: -6812956956460740648
+    second: highscore small instance 10010
+  - first:
+      213: 8514885316189631557
+    second: highscore small instance 10011
+  - first:
+      213: 6334443862727840553
+    second: highscore small instance 10012
+  - first:
+      213: 9111761026920708154
+    second: highscore small instance 10013
+  - first:
+      213: -2082076982237693605
+    second: highscore small instance 10014
+  - first:
+      213: -1883225381062268696
+    second: highscore small instance 10015
+  - first:
+      213: -1031142349070982622
+    second: highscore small instance 10016
+  - first:
+      213: -7994626443069013054
+    second: highscore small instance 10017
+  - first:
+      213: -5707827154447812406
+    second: highscore small instance 10018
+  - first:
+      213: -1969849218918207555
+    second: highscore small instance 10019
+  - first:
+      213: 6566425583270673395
+    second: highscore small instance 10020
+  - first:
+      213: 947744267969207748
+    second: highscore small instance 10021
+  - first:
+      213: -3997943668490126318
+    second: highscore small instance 10022
+  - first:
+      213: 697653804758082737
+    second: highscore small instance 10023
+  - first:
+      213: 5629012296379824627
+    second: highscore small instance 10024
+  - first:
+      213: -3702221911232830724
+    second: highscore small instance 10025
+  - first:
+      213: -6219039983995098101
+    second: highscore small instance 10026
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highscore small instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2ced02d23312c10800000000000000
+      internalID: 2026957576211448556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c5685f379ab840800000000000000
+      internalID: 5240667414720792426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52350c4a6b12df1e0800000000000000
+      internalID: -2162535177736137947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550940ba18a435a90800000000000000
+      internalID: -7326430248021225387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa5491a81d32d70800000000000000
+      internalID: 9017281269985553113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51412cca689884010800000000000000
+      internalID: 1173338914447037461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd5b5996296b4b20800000000000000
+      internalID: 3119702781386776028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe7b4db01372d20800000000000000
+      internalID: 3253623182681698274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf06f959565ca8d0800000000000000
+      internalID: -2833795123761508404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d34d538c41ec88e0800000000000000
+      internalID: -1689728041433087019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df8124aeb38371a0800000000000000
+      internalID: -6812956956460740648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5443caec413fa2670800000000000000
+      internalID: 8514885316189631557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10012
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923db8fb12778e750800000000000000
+      internalID: 6334443862727840553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10013
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a387bd7b06a737e70800000000000000
+      internalID: 9111761026920708154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10014
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 103
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5974b6140afa13e0800000000000000
+      internalID: -2082076982237693605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10015
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 103
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a8c16e707dd5e0800000000000000
+      internalID: -1883225381062268696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10016
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 56
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22223ca2f75a0b1f0800000000000000
+      internalID: -1031142349070982622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10017
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 56
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c34dec7b916d0190800000000000000
+      internalID: -7994626443069013054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10018
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 56
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac83fc3c179b9c0b0800000000000000
+      internalID: -5707827154447812406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10019
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 56
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfac457290b9a4e0800000000000000
+      internalID: -1969849218918207555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10020
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 9
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb2ee0741a02b50800000000000000
+      internalID: 6566425583270673395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10021
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 9
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd973ee360172d00800000000000000
+      internalID: 947744267969207748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10022
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 9
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cbf9f5a637488c0800000000000000
+      internalID: -3997943668490126318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10023
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 9
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42ec860709ea900800000000000000
+      internalID: 697653804758082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9760a1cd44e1e40800000000000000
+      internalID: 5629012296379824627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ac4579c01f9cc0800000000000000
+      internalID: -3702221911232830724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highscore small instance 10026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 289
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c650e951881b9a0800000000000000
+      internalID: -6219039983995098101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

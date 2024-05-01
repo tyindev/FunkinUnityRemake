@@ -12,12 +12,19 @@ public class MainMenuState : MonoBehaviour
     private AudioSource audioSource;   
     public AudioClip actuallypressedclip;
     private AudioSource audioSource2;   
+    public AudioSource backitup;  
+
     [Header("Buttons")]
     public GameObject[] menuButtons;
+    public GameObject[] menuButtonLink;
     private int currentIndex = 0;
+
     [Header("Anims/Input")]
     public KeyCode titleenterinput;
     public Animator transition;
+
+    [Header("Swagger Camera")]
+    public Camera swaggerCam;
 
     // Start is called before the first frame update
     void Start()
@@ -55,7 +62,13 @@ public class MainMenuState : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Return))
         {
             audioSource2.Play();
-            StartCoroutine(LoadNextSceneAfterDelay(1f));
+            StartCoroutine(LoadNextSceneAfterDelay(1f));  
+        }
+
+        if (Input.GetKeyDown(KeyCode.Backspace) | Input.GetKeyDown(KeyCode.Escape))
+        {
+            backitup.Play();
+            StartCoroutine(CloseCurScene(0.2f));  
         }
     }
 
@@ -66,6 +79,14 @@ public class MainMenuState : MonoBehaviour
         yield return new WaitForSeconds(delay);
         string sceneName = menuButtons[currentIndex].GetComponent<MenuButton>().sceneToLoad;
         SceneManager.LoadScene(sceneName);
+    } 
+
+    IEnumerator CloseCurScene(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        transition.SetTrigger("Start");
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene("Title");
     } 
 
     void UpdateButtonSelection()
@@ -82,5 +103,9 @@ public class MainMenuState : MonoBehaviour
                 animator.Play("Selected"); // OG DEFAULT
             }
         }
+
+        Vector3 targetPosition = menuButtons[currentIndex].transform.position;
+        targetPosition.z = swaggerCam.transform.position.z;
+        swaggerCam.transform.position = targetPosition;
     }  
 }

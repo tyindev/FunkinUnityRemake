@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 3c2aa178c5cd8df4491f04796b26dba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3211354494703339034
+    second: mp3 capsule w backing0000
+  - first:
+      213: -6493993872467345962
+    second: mp3 capsule w backing0001
+  - first:
+      213: -8744555409138929479
+    second: mp3 capsule w backing0002
+  - first:
+      213: -5938889942497843949
+    second: mp3 capsule w backing0003
+  - first:
+      213: -7336604549107194883
+    second: mp3 capsule w backing0004
+  - first:
+      213: -5943590336267553327
+    second: mp3 capsule w backing0005
+  - first:
+      213: -5130601343685150853
+    second: mp3 capsule w backing0006
+  - first:
+      213: 5942465431147609900
+    second: mp3 capsule w backing0007
+  - first:
+      213: -4776469462722970350
+    second: mp3 capsule w backing NOT SELECTED0000
+  - first:
+      213: 3469155114823410549
+    second: mp3 capsule w backing NOT SELECTED0001
+  - first:
+      213: 4468241796221798493
+    second: mp3 capsule w backing NOT SELECTED0002
+  - first:
+      213: 10535967519094250
+    second: mp3 capsule w backing NOT SELECTED0003
+  - first:
+      213: -439938828925196984
+    second: mp3 capsule w backing NOT SELECTED0004
+  - first:
+      213: -4574354696783354160
+    second: mp3 capsule w backing NOT SELECTED0005
+  - first:
+      213: 3248467823020226717
+    second: mp3 capsule w backing NOT SELECTED0006
+  - first:
+      213: -6969586462673536583
+    second: mp3 capsule w backing NOT SELECTED0007
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mp3 capsule w backing0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 585
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97a5ff91afe63d0800000000000000
+      internalID: -3211354494703339034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0001
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 893
+        width: 585
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd350acaf2b0e5a0800000000000000
+      internalID: -6493993872467345962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 581
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0bd8f9f2915a680800000000000000
+      internalID: -8744555409138929479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 581
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a6491013d49da0800000000000000
+      internalID: -5938889942497843949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0004
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 494
+        width: 612
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df363f898052f2a90800000000000000
+      internalID: -7336604549107194883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0005
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 899
+        width: 612
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f3546410248da0800000000000000
+      internalID: -5943590336267553327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0006
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 767
+        width: 590
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773181d2417cc8b0800000000000000
+      internalID: -5130601343685150853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing0007
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 635
+        width: 590
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f779933d0e77250800000000000000
+      internalID: 5942465431147609900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0000
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 758
+        width: 585
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d75e9945296bdb0800000000000000
+      internalID: -4776469462722970350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0001
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 623
+        width: 585
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57367c1523ae42030800000000000000
+      internalID: 3469155114823410549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 581
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d588a5a6d32620e30800000000000000
+      internalID: 4468241796221798493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 581
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae53759186e652000800000000000000
+      internalID: 10535967519094250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0004
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 366
+        width: 602
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845230b47f505e9f0800000000000000
+      internalID: -439938828925196984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0005
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 507
+        width: 602
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a695a3a0a480c0800000000000000
+      internalID: -4574354696783354160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0006
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 362
+        width: 590
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98386f1640e41d20800000000000000
+      internalID: 3248467823020226717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp3 capsule w backing NOT SELECTED0007
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 230
+        width: 590
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f8f4e90e074f90800000000000000
+      internalID: -6969586462673536583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
