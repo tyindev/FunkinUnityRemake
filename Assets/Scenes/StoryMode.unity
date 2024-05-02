@@ -193,11 +193,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'BOPEEBO
+  m_Text: 'Bopeebo
 
-    FRESH
+    Fresh
 
-    DADBATTLE'
+    DadBattle'
 --- !u!222 &30356206
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -577,13 +577,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'SPOOKY
+  m_Text: 'Spooky
 
-    SOUTH
+    South
 
-    MONSTER
-
-'
+    Monster'
 --- !u!222 &278026323
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1196,11 +1194,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'PICO
+  m_Text: 'Pico
 
-    PHILLY
+    PhillyNice
 
-    BLAMMED'
+    Blammed'
 --- !u!222 &464306098
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1624,11 +1622,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'COCOA
+  m_Text: 'Cocoa
 
-    EGGNOG
+    Eggnog
 
-    WINTER-HORRORLAND'
+    WinterHorrorland'
 --- !u!222 &730895631
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2463,7 +2461,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: TUTORIAL
+  m_Text: Tutorial
 --- !u!222 &1059699742
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2542,11 +2540,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'SATIN PANTIES
+  m_Text: 'Satin Panties
 
-    HIGH
+    High
 
-    MILF'
+    M.I.L.F'
 --- !u!222 &1104027101
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2996,8 +2994,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65b055f307cac6345998e50de05fbeae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  videoshit: {fileID: 0}
+  fnfmusics: {fileID: 0}
+  allsprites: {fileID: 0}
+  actuallypressedclip: {fileID: 0}
   titleenterinput: 0
   transition: {fileID: 962097993}
+  gay: 129
 --- !u!4 &1629902168
 Transform:
   m_ObjectHideFlags: 0
@@ -3263,7 +3266,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'WEEK SCORE: 0'
+  m_Text: 'LEVEL SCORE: 0'
 --- !u!222 &1721481293
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3950,11 +3953,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'SENPAI
+  m_Text: 'Senpai
 
-    ROSES
+    Roses
 
-    THORNS'
+    Thorns'
 --- !u!222 &1989476906
 CanvasRenderer:
   m_ObjectHideFlags: 0

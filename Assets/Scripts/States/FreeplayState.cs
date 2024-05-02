@@ -6,15 +6,15 @@ public class FreeplayState : MonoBehaviour
     [Header("Diff Text Related Stuff")]
     public GameObject[] diffs;
     private int currentIndex = 1;
-    [Header("Buttons")]
-    public GameObject[] songs;
-    private int currentIndexSong = 0;
     [Header("Swagger Camera")]
     public Camera swaggerCam;
     [Header("Sound Stuff")]
     private AudioSource pressedAudio;   
     private AudioSource scrollAudio;   
     public AudioSource backitup;  
+    [Header("Week Related Stuff")]
+    public Transform[] weeks;
+    private int selectedIndex = 0;
 
     void Start()
     {
@@ -35,17 +35,13 @@ public class FreeplayState : MonoBehaviour
         } 
 
         // SONG SWITCHING CONTROLS
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            SelectPrevWeek();
+        }
         if (Input.GetKeyDown(KeyCode.DownArrow))
         {
-            //scrollAudio.Play();
-            currentIndex = (currentIndex + 1) % songs.Length;
-            UpdateButtonSelection();
-        }
-        else if (Input.GetKeyDown(KeyCode.UpArrow))
-        {
-            //scrollAudio.Play();
-            currentIndex = (currentIndex + songs.Length - 1) % songs.Length;
-            UpdateButtonSelection();
+            SelectNextWeek();
         }
     }
 
@@ -69,10 +65,36 @@ public class FreeplayState : MonoBehaviour
         ShowText(currentIndex);
     }
 
-    void UpdateButtonSelection()
+    // WEEK SHII
+    void SelectPrevWeek()
     {
-        Vector3 targetPosition = songs[currentIndexSong].transform.position;
-        targetPosition.z = swaggerCam.transform.position.z;
-        swaggerCam.transform.position = targetPosition;
-    } 
+        // Week Text Thingy
+        selectedIndex--;
+        if (selectedIndex < 0)
+        {
+            selectedIndex = weeks.Length - 1;
+        }
+        UpdateSelectedSprite();
+    }
+
+    void UpdateSelectedSprite()
+    {
+        // Week Texts
+        foreach (Transform sprite in weeks)
+        {
+            sprite.gameObject.SetActive(false);
+        }
+        weeks[selectedIndex].gameObject.SetActive(true);
+    }
+
+    void SelectNextWeek()
+    {
+        // Week Text Thingy
+        selectedIndex++;
+        if (selectedIndex >= weeks.Length)
+        {
+            selectedIndex = 0;
+        }
+        UpdateSelectedSprite();
+    }
 }
