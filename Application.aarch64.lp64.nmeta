@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<NintendoSdkMeta>
+  <Core>
+    <Name>Application</Name>
+    <ApplicationId>0x0f02fac210490000</ApplicationId>
+    <Is64BitInstruction>True</Is64BitInstruction>
+    <ProcessAddressSpace>AddressSpace64Bit</ProcessAddressSpace>
+    <SystemResourceSize>0x1000000</SystemResourceSize>
+  </Core>
+  <!-- この nmeta ファイルは AuthoringEditor で GUI を用いて生成、編集出来ます -->
+  <!-- This nmeta file can be created and edited by GUI AuthoringEditor provides. -->
+  <Application>
+    <Title>
+      <Language>AmericanEnglish</Language>
+      <Name>Funkin Unity</Name>
+      <Publisher>TyDotCS</Publisher>
+    </Title>
+    <DisplayVersion>1.0</DisplayVersion>
+    <SupportedLanguage>AmericanEnglish</SupportedLanguage>
+    <Rating>
+      <Organization>ESRB</Organization>
+      <Age>0</Age>
+    </Rating>
+    <LogoType>LicensedByNintendo</LogoType>
+    <ReleaseVersion>1</ReleaseVersion>
+    <Icon>
+      <Language>AmericanEnglish</Language>
+      <IconPath>C:\NX\NintendoSDK\Resources\SpecFiles\NintendoSDK_Application.bmp</IconPath>
+    </Icon>
+    <StartupUserAccount>None</StartupUserAccount>
+    <Screenshot>Allow</Screenshot>
+    <VideoCapture>Enable</VideoCapture>
+    <DataLossConfirmation>None</DataLossConfirmation>
+    <RuntimeAddOnContentInstall>Deny</RuntimeAddOnContentInstall>
+  </Application>
+</NintendoSdkMeta>
