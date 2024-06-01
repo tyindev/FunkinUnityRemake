@@ -623,7 +623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteAnimations:
-  - {fileID: 11400000, guid: 87e0464b356c11a4a98618048af7ede8, type: 2}
+  - {fileID: 0}
   playAutomatically: 1
 --- !u!212 &1372638128
 SpriteRenderer:

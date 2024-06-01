@@ -12,7 +12,7 @@
 
 * Visual Studio Code (or Notepad++) to edit the code
 
-* Unity 2020.3.38f1 (64-bit) to actually mess around with the game.
+* Unity 2020.1.0b4 (64-bit) to actually mess around with the game.
 
 # Credits
 
